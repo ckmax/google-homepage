@@ -1,0 +1,45 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: right;
+}
+
+a , #signin {
+	display:block;
+	width: 60px;
+}
+
+#logo {
+	position:relative;
+	top: 200px; left: 680px;
+}
+
+#searcharea {
+	width: 40%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	position:absolute;
+	top:420px; left: 600px;
+}
+
+.search {
+	display: inline-block;
+	position: relative;
+	padding: 7px 7px 7px 7px;
+	top: 290px; left: 280px;
+	font-weight:bold;
+	margin-left: 13px;
+}
+
+#footer {
+	list-style-type: none;
+	display:inline;
+	clear:both;
+	width:100%;
+	background-color: grey;
+}
+
